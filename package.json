@@ -4,7 +4,8 @@
   "description": "Military Uniform Princess",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
+    "test": "echo \"Error: ninguna prueba especificada\" && exit 1"
   },
   "author": "iYoungDrew",
   "license": "ISC",

@@ -1,15 +1,14 @@
 {
   "name": "altair",
-  "version": "1.0.0",
   "description": "Military Uniform Princess",
-  "main": "index.js",
+  "version": "1.0.0",
+  "main": "altair.js",
   "scripts": {
-    "start": "node index.js"
-    "test": "echo \"Error: ninguna prueba especificada\" && exit 1"
+    "start": "node altair.js"
   },
   "author": "iYoungDrew",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "11.3.2",
+    "request": "2.81.0"
   }
 }

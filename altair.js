@@ -10,4 +10,4 @@ client.on('message', message => {
     	message.reply('Hola basura :3');
   	}
 });
-bot.login('process.env.BOT_TOKEN');
+client.login('process.env.BOT_TOKEN');
